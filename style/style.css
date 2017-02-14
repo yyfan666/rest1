@@ -1,0 +1,19 @@
+h1,h2,h3,p,ul,li,dl,dd,dt,table,a,img,div{margin:0;padding:0;} 
+body{width:1350px;height:100%;margin: 0 auto;font-size:16px;font-family:微软雅黑;}
+a{text-decoration:none;}
+#top{width:1350px;height:116px;background:#666;}
+.english dl{width: 1069px;height:116px;margin-left: 243px;position: relative;}
+.english dl dt{width: 1069px;height:19px;text-align: right;margin-bottom: 50px;padding-top:6px;}
+.english dl dt span{color:orange;margin: 0 16px;}
+.english dl dd{float: left;}
+.english dl dd input{width: 120px;height: 25px;background: #999;border:0;}
+.english .sos{position: absolute;right: -6px;}
+.english dl dd a{margin:0 26px;color:#fff;}
+
+
+
+
+
+#mian{width:1350px;height:1316px;background:#fff;}
+#botter{width:1350px;height:173px;background:#666;text-align: center;line-height: 173px;}
+
